@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](dobongsoongif.gif)
 <!--
 **dukeofthefiends/dukeofthefiends** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
